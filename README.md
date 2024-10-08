@@ -1,9 +1,9 @@
-<img src=""/>
+<div align="center"><img src="./me.jpg" width="300px"  /></div>
 <h1 align="center">Hi 👋! i'm sina</h1>
 
 ###
 
-<h3 align="left">a  funny programmer who love challenges. <br><br>student of computer engineering.</h3>
+<h4 align="left">a  funny programmer who love challenges. <br><br>student of computer engineering.</h4>
 
 ###
 
