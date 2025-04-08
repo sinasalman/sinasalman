@@ -1,4 +1,4 @@
-<div align="center"><img src="./SinaSalman-Banner copy.jpg" width="700px"  /></div>
+<div align="center"><img src="./SinaSalman-Banner copy.jpg" width="100%"  /></div>
 <h1 align="center">Hi 👋! i'm sina</h1>
 
 ###
